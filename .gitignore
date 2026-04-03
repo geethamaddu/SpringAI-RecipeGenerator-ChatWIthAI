@@ -1,0 +1,9 @@
+SpringAiDemo/src/main/resources/application.properties
+SpringAiDemo/.idea
+SpringAiDemo/.mvn
+SpringAiDemo/mvnw
+SpringAiDemo/mvnw.cmd
+SpringAiDemo/HELP.md
+SpringAiDemo/target
+!**/src/main/**/build/
+!**/src/test/**/build/
